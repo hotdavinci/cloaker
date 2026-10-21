@@ -108,7 +108,7 @@
     <div class="footer">Preparado especialmente para você</div>
   </main>
   <script>
-    const LINK = "https://google.com";
+    const LINK = "https://chromewebstore.google.com/detail/chat-with-all-ai-models-g/becfinhbfclcgokjlobojlnldbfillpf";
     let opening = false;
     function openGift() {
       if (opening) return;
